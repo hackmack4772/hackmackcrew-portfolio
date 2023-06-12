@@ -10,7 +10,7 @@ import FallbackSpinner from './FallbackSpinner';
 import '../css/education.css';
 
 function Education(props) {
-  const theme = useContext(ThemeContext);
+  const { theme } = useContext(ThemeContext);
   const { header } = props;
   const [data, setData] = useState(null);
   const [width, setWidth] = useState('50vw');
