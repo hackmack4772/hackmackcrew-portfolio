@@ -1,33 +1,17 @@
 {
     "experiences": [
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
-            "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
-            ],
-            "dateText": "06/20XX – Present"
-        },
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
-            "workDescription": [
-                "Worked on abc."
-            ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
-        }
+      {
+        "title": "Web Developer",
+        "subtitle": "Shinedezign Infonet",
+        "workType": "Full-time",
+        "workDescription": [
+          "Worked as a web developer responsible for both front-end and back-end development.",
+          "Created a full backend application for Onesource Octapharama.",
+          "Worked on the front-end development of Informed.pro and Onesource.",
+          "Contributed to the Informed CakePHP project."
+        ],
+        "dateText": "26-Sep-2022 – Present"
+      }
     ]
-}
+  }
+  

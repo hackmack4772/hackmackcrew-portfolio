@@ -1,19 +1,34 @@
 {
-    "education":[
-        {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
-        },
-        {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+    "education": [
+      {
+        "title": "Jun 2016",
+        "cardTitle": "10th Grade",
+        "cardSubtitle": "Government High School Sanzipora",
+        "cardDetailedText": "Completed 10th grade with a remarkable score of 86.6%. Located in Sanzipora, Jammu and Kashmir, India.",
+        "icon" : {
+            "src": "images/education/lorem-ipsum.png"
         }
+      },
+      {
+        "title": "Apr 2018",
+        "cardTitle": "12th Grade",
+        "cardSubtitle": "Government Higher Secondary School Handwara",
+        "cardDetailedText": "Successfully completed 12th grade with an impressive score of 80.4%. Located in Handwara, Jammu and Kashmir, India."
+        ,
+        "icon" : {
+            "src": "images/education/lorem-ipsum.png"
+        }
+      },
+      {
+        "title": "Jun 2019 - Jun 2022",
+        "cardTitle": "Bachelor's in Computer Application (BCA)",
+        "cardSubtitle": "RIMT University, Mandi Gobindgarh",
+        "cardDetailedText": "Pursued Bachelor's in Computer Application (BCA) from RIMT University, Mandi Gobindgarh. Graduated with a remarkable grade of 9.08. Developed a strong foundation in computer science concepts, programming languages, database management, and software development. Located in Mandi Gobindgarh, Punjab, India."
+      
+        ,
+        "icon" : {
+            "src": "images/education/lorem-ipsum.png"
+        }}
     ]
-}
+  }
+  
